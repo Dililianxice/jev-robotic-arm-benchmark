@@ -1,0 +1,10 @@
+.env
+.env.*
+*.pem
+*.key
+.venv/
+venv/
+__pycache__/
+*.pyc
+local_outputs/
+.DS_Store

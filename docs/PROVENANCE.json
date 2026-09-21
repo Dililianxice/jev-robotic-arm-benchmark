@@ -1,0 +1,51 @@
+{
+  "upstream_repository": "https://github.com/openroboto-ai/jev-robot-control",
+  "upstream_commit": "7a4ed8b72c3c17d7aa790678ed9660df67c10dd3",
+  "robot_model_repository": "https://github.com/google-deepmind/mujoco_menagerie",
+  "robot_model_commit": "8161bba264d7fa7c99ca301e91e7fb44737676ad",
+  "original_trace_replay": {
+    "source_sha256": "b64c3d8878df9bb51b8f72bcd940f1bbc4fb615e0d1cb464bea9db95ea90e348",
+    "cycles": 113,
+    "max_qpos_error": 5.5247671715275e-10,
+    "success": true,
+    "expected_success": true,
+    "verified": true
+  },
+  "original_frozen_manifest_sha256": "bbc1fdcff37e5c31f38a3cb8f8a3d8ef952fe586efd01f52b9a231bbd1cb41ba",
+  "vendored_sha256": {
+    "vendor/LICENSE": "3bdcc1fe7e2fdb4c787ac259c0532300f2e6657a6f1906b712cae3cccbf7b0ce",
+    "vendor/THIRD_PARTY_NOTICES.md": "6d384d49d1dadc1deb321c38149aa99f97b74ae8a7eb61a3bcbea6158a034a30",
+    "vendor/incremental_env.py": "e4ff111f96ddac4971c0cb06c55aff6cde9cdebf7679ace410a1279d4e5d0f57",
+    "vendor/incremental_policy.py": "b6c98e81e8186dfa1ddd68382a3c5427428566a9d3659d1c9ec086dedfdc7498",
+    "vendor/robot/CHANGELOG.md": "64ba84ac61611a36300af7a08e0c93434796f122aaa124475bb921ff89b80307",
+    "vendor/robot/LICENSE": "85bef011d6a7f1783593da6ca68ff29ab455610503135a2d6426015d9a9edad6",
+    "vendor/robot/README.md": "ccccdb6935ff94f884f1bce42e664b2321cdb2ddd04e377f2bf8ab49e7bd9e7a",
+    "vendor/robot/assets/base_link.stl": "cdaa4cff22f7c9cff05c6a8ed32f94fd2b11a69d37dd97a159ccee2d8dd32f13",
+    "vendor/robot/assets/end_tool.stl": "e06112781cdd615b7df536569f50addb445a6f4b4acced6d53b0742018b6c768",
+    "vendor/robot/assets/left_finger.stl": "a44756eb72f9c214cb37e61dc209cd7073fdff3e4271a7423476ef6fd090d2d4",
+    "vendor/robot/assets/left_inner_knuckle.stl": "e8e48692ad26837bb3d6a97582c89784d09948fc09bfe4e5a59017859ff04dac",
+    "vendor/robot/assets/left_outer_knuckle.stl": "501665812b08d67e764390db781e839adc6896a9540301d60adf606f57648921",
+    "vendor/robot/assets/link1.stl": "34b541122df84d2ef5fcb91b715eb19659dc15ad8d44a191dde481f780265636",
+    "vendor/robot/assets/link2.stl": "61e641cd47c169ecef779683332e00e4914db729bf02dfb61bfbe69351827455",
+    "vendor/robot/assets/link3.stl": "9e2798e7946dd70046c95455d5ba96392d0b54a6069caba91dc4ca66e1379b42",
+    "vendor/robot/assets/link4.stl": "c757fee95f873191a0633c355c07a360032960771cabbd7593a6cdb0f1ffb089",
+    "vendor/robot/assets/link5.stl": "715ad5787c5dab57589937fd47289882707b5e1eb997e340d567785b02f4ec90",
+    "vendor/robot/assets/link6.stl": "85b320aa420497827223d16d492bba8de091173374e361396fc7a5dad7bdb0cb",
+    "vendor/robot/assets/link7.stl": "97115d848fbf802cb770cd9be639ae2af993103b9d9bbb0c50c943c738a36f18",
+    "vendor/robot/assets/link_base.stl": "cf52275a913a0977595f5d12373f06583513e26fe18b8cf2827c74da94a4f0be",
+    "vendor/robot/assets/right_finger.stl": "c5dee87c7f37baf554b8456ebfe0b3e8ed0b22b8938bd1add6505c2ad6d32c7d",
+    "vendor/robot/assets/right_inner_knuckle.stl": "b41dd2c2c550281bf78d7cc6fa117b14786700e5c453560a0cb5fd6dfa0ffb3e",
+    "vendor/robot/assets/right_outer_knuckle.stl": "75ca1107d0a42a0f03802a9a49cab48419b31851ee8935f8f1ca06be1c1c91e8",
+    "vendor/robot/hand.xml": "9db4f73920ebd39910a74c099dd074c91f53dbdb42299d8031152baef0fe99e6",
+    "vendor/robot/scene.xml": "aa9df2cb2c5a64f52d616d0bb37236b3662563fcabaeb92dfbea04ebb66da5d2",
+    "vendor/robot/xarm7.xml": "a1a25878ef5aa50aec270cfd13e5e4b2e400cde7560d3344c06ea24c0521c9bd",
+    "vendor/robot/xarm7_nohand.xml": "0de4375f440e070786a87b8bbecef040b115430b0d05d4d07308127c5b3ca7c5",
+    "vendor/simulation.py": "f1aa9d41b9130b9a3780d360ef9b6a56aa9bac132d4f3feab89d870a0a18f6e0"
+  },
+  "sanitization": [
+    "No credentials, credential files, authorization headers, local absolute paths, account email, service response IDs or service timestamps are included.",
+    "Generic API option names, public endpoints, synthetic observations, prompts, typed answers, usage and elapsed timings are retained for reproducibility.",
+    "New portable offline scripts use the published layout. Archived collection scripts preserve the experimental logic but are not public execution entrypoints."
+  ],
+  "publication_scope": "Only robot_physics_v3; no neural data, personal chat, other projects, downloaded social-media video, local runtime or model weights."
+}

@@ -1,0 +1,64 @@
+{
+  "verified": true,
+  "network_calls": 0,
+  "credential_reads": 0,
+  "qpos_tolerance": 1e-07,
+  "episodes": [
+    {
+      "id": "deepseek_seed0",
+      "success": false,
+      "cycles": 160,
+      "max_qpos_error": 0.0
+    },
+    {
+      "id": "deepseek_seed1",
+      "success": false,
+      "cycles": 160,
+      "max_qpos_error": 0.0
+    },
+    {
+      "id": "deepseek_seed2",
+      "success": false,
+      "cycles": 160,
+      "max_qpos_error": 0.0
+    },
+    {
+      "id": "jev_seed0",
+      "success": true,
+      "cycles": 109,
+      "max_qpos_error": 0.0
+    },
+    {
+      "id": "jev_seed1",
+      "success": true,
+      "cycles": 105,
+      "max_qpos_error": 0.0
+    },
+    {
+      "id": "jev_seed2",
+      "success": true,
+      "cycles": 106,
+      "max_qpos_error": 0.0
+    },
+    {
+      "id": "rules_seed0",
+      "success": true,
+      "cycles": 106,
+      "max_qpos_error": 0.0
+    },
+    {
+      "id": "rules_seed1",
+      "success": true,
+      "cycles": 104,
+      "max_qpos_error": 0.0
+    },
+    {
+      "id": "rules_seed2",
+      "success": true,
+      "cycles": 102,
+      "max_qpos_error": 0.0
+    }
+  ],
+  "matched_probe_pairs": 16,
+  "median_probe_delta_jev_minus_deepseek": -0.4401288899825886
+}

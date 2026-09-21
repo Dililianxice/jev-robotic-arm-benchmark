@@ -1,0 +1,16 @@
+{
+  "credential_files_included": false,
+  "sensitive_marker_matches": 0,
+  "text_and_compressed_files_scanned": 43,
+  "missing_relative_links": [],
+  "provider_ids_removed": true,
+  "offline_verification": {
+    "episodes": 9,
+    "matched_probe_pairs": 16,
+    "max_qpos_error": 0,
+    "network_calls": 0,
+    "credential_reads": 0
+  },
+  "independent_review": "Passed after clarifying that closed-loop states can diverge; only matched probes have identical input values.",
+  "source_of_truth": "Historical recorded experimental data; publication changes packaging and redacts service metadata, not decisions or metrics."
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "deepseek_seed0",
+    "verified": true,
+    "recorded_prefix_verified": true,
+    "max_qpos_error": 0.0,
+    "cycles": 160
+  },
+  {
+    "id": "deepseek_seed1",
+    "verified": true,
+    "recorded_prefix_verified": true,
+    "max_qpos_error": 0.0,
+    "cycles": 160
+  },
+  {
+    "id": "deepseek_seed2",
+    "verified": true,
+    "recorded_prefix_verified": true,
+    "max_qpos_error": 0.0,
+    "cycles": 160
+  },
+  {
+    "id": "jev_seed0",
+    "verified": true,
+    "recorded_prefix_verified": true,
+    "max_qpos_error": 0.0,
+    "cycles": 109
+  },
+  {
+    "id": "jev_seed1",
+    "verified": true,
+    "recorded_prefix_verified": true,
+    "max_qpos_error": 0.0,
+    "cycles": 105
+  },
+  {
+    "id": "jev_seed2",
+    "verified": true,
+    "recorded_prefix_verified": true,
+    "max_qpos_error": 0.0,
+    "cycles": 106
+  },
+  {
+    "id": "rules_seed0",
+    "verified": true,
+    "recorded_prefix_verified": true,
+    "max_qpos_error": 0.0,
+    "cycles": 106
+  },
+  {
+    "id": "rules_seed1",
+    "verified": true,
+    "recorded_prefix_verified": true,
+    "max_qpos_error": 0.0,
+    "cycles": 104
+  },
+  {
+    "id": "rules_seed2",
+    "verified": true,
+    "recorded_prefix_verified": true,
+    "max_qpos_error": 0.0,
+    "cycles": 102
+  }
+]

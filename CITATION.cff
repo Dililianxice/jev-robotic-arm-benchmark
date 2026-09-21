@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Please cite this benchmark and acknowledge the original OpenRoboto framework and UFACTORY robot assets."
+title: "Jev Robotic Arm Benchmark: Paired Incremental Control with DeepSeek and Rules"
+type: software
+version: 0.1.0
+date-released: 2026-09-21
+authors:
+  - family-names: "Dililianxice"
+repository-code: "https://github.com/Dililianxice/jev-robotic-arm-benchmark"
+license: MIT
+keywords:
+  - Jev
+  - robotics
+  - MuJoCo
+  - xArm7
+  - DeepSeek
+  - reproducibility

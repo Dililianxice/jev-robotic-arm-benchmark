@@ -1,0 +1,191 @@
+[
+  {
+    "id": "deepseek_seed0",
+    "status": "cycle_cap",
+    "intent_counts": {
+      "approach": 160
+    },
+    "all_xyz_hold_count": 145,
+    "approach_aligned_but_xyz_hold_count": 145,
+    "first_example": {
+      "cycle": 15,
+      "tcp_mm": [
+        380.3,
+        -122.5,
+        200.5
+      ],
+      "grasp_error_mm": [
+        -0.2,
+        1.0,
+        -172.7
+      ],
+      "motor": {
+        "x": "hold",
+        "y": "hold",
+        "z": "hold",
+        "gripper": "open"
+      }
+    },
+    "note": "Post-hoc symptom count. Repeated dependent states are not independent accuracy trials."
+  },
+  {
+    "id": "deepseek_seed1",
+    "status": "cycle_cap",
+    "intent_counts": {
+      "approach": 160
+    },
+    "all_xyz_hold_count": 146,
+    "approach_aligned_but_xyz_hold_count": 146,
+    "first_example": {
+      "cycle": 14,
+      "tcp_mm": [
+        379.8,
+        -118.9,
+        200.5
+      ],
+      "grasp_error_mm": [
+        0.5,
+        -0.3,
+        -172.8
+      ],
+      "motor": {
+        "x": "hold",
+        "y": "hold",
+        "z": "hold",
+        "gripper": "open"
+      }
+    },
+    "note": "Post-hoc symptom count. Repeated dependent states are not independent accuracy trials."
+  },
+  {
+    "id": "deepseek_seed2",
+    "status": "cycle_cap",
+    "intent_counts": {
+      "approach": 160
+    },
+    "all_xyz_hold_count": 140,
+    "approach_aligned_but_xyz_hold_count": 140,
+    "first_example": {
+      "cycle": 13,
+      "tcp_mm": [
+        374.8,
+        -122.9,
+        200.5
+      ],
+      "grasp_error_mm": [
+        -0.3,
+        2.0,
+        -172.7
+      ],
+      "motor": {
+        "x": "hold",
+        "y": "hold",
+        "z": "hold",
+        "gripper": "open"
+      }
+    },
+    "note": "Post-hoc symptom count. Repeated dependent states are not independent accuracy trials."
+  },
+  {
+    "id": "jev_seed0",
+    "status": "success",
+    "intent_counts": {
+      "approach": 30,
+      "grasp": 2,
+      "lift": 22,
+      "carry": 32,
+      "lower": 14,
+      "release": 1,
+      "withdraw": 8
+    },
+    "all_xyz_hold_count": 2,
+    "approach_aligned_but_xyz_hold_count": 0,
+    "first_example": null,
+    "note": "Post-hoc symptom count. Repeated dependent states are not independent accuracy trials."
+  },
+  {
+    "id": "jev_seed1",
+    "status": "success",
+    "intent_counts": {
+      "approach": 30,
+      "grasp": 2,
+      "lift": 20,
+      "carry": 30,
+      "lower": 14,
+      "release": 1,
+      "withdraw": 8
+    },
+    "all_xyz_hold_count": 4,
+    "approach_aligned_but_xyz_hold_count": 0,
+    "first_example": null,
+    "note": "Post-hoc symptom count. Repeated dependent states are not independent accuracy trials."
+  },
+  {
+    "id": "jev_seed2",
+    "status": "success",
+    "intent_counts": {
+      "approach": 30,
+      "grasp": 2,
+      "lift": 21,
+      "carry": 29,
+      "lower": 15,
+      "release": 1,
+      "withdraw": 8
+    },
+    "all_xyz_hold_count": 4,
+    "approach_aligned_but_xyz_hold_count": 0,
+    "first_example": null,
+    "note": "Post-hoc symptom count. Repeated dependent states are not independent accuracy trials."
+  },
+  {
+    "id": "rules_seed0",
+    "status": "success",
+    "intent_counts": {
+      "approach": 30,
+      "grasp": 2,
+      "lift": 18,
+      "carry": 32,
+      "lower": 15,
+      "release": 1,
+      "withdraw": 8
+    },
+    "all_xyz_hold_count": 3,
+    "approach_aligned_but_xyz_hold_count": 0,
+    "first_example": null,
+    "note": "Post-hoc symptom count. Repeated dependent states are not independent accuracy trials."
+  },
+  {
+    "id": "rules_seed1",
+    "status": "success",
+    "intent_counts": {
+      "approach": 30,
+      "grasp": 2,
+      "lift": 18,
+      "carry": 31,
+      "lower": 14,
+      "release": 1,
+      "withdraw": 8
+    },
+    "all_xyz_hold_count": 3,
+    "approach_aligned_but_xyz_hold_count": 0,
+    "first_example": null,
+    "note": "Post-hoc symptom count. Repeated dependent states are not independent accuracy trials."
+  },
+  {
+    "id": "rules_seed2",
+    "status": "success",
+    "intent_counts": {
+      "approach": 29,
+      "grasp": 2,
+      "lift": 18,
+      "carry": 29,
+      "lower": 15,
+      "release": 1,
+      "withdraw": 8
+    },
+    "all_xyz_hold_count": 3,
+    "approach_aligned_but_xyz_hold_count": 0,
+    "first_example": null,
+    "note": "Post-hoc symptom count. Repeated dependent states are not independent accuracy trials."
+  }
+]
